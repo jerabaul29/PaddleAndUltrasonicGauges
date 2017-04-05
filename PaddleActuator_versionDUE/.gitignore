@@ -1,0 +1,9 @@
+# platformio
+**/.pioenvs/
+**/.sconsign.dblite
+
+# python
+**/.pyc
+
+# text editor
+**/~
