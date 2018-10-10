@@ -4,6 +4,8 @@ Some code used for performing automatic experiences about wave propagation in gr
 
 *Experiments on wave propagation in grease ice: combined wave gauges and PIV measurements*, Jean Rabault, Graig Sutherland, Atle Jensen, Kai H Christensen, Aleksey Marchenko, ArXiv (2018).
 
+Link: https://arxiv.org/pdf/1809.01476.pdf
+
 ## Content
 
 - **ReadingGauges**: code (both Arduino Mega side and computer side) for reading the data from the Banner gauges.
