@@ -18,7 +18,7 @@ int value_E;
 int value_F;
 
 // time between readings in ms, ie 20 ms is 50 Hz, ie 10ms is 100Hz
-#define time_between_readings 10000UL
+#define time_between_readings 20000UL
 // variables for reading intervals
 unsigned long last_reading = 0;
 unsigned long current_time = 0;
@@ -89,4 +89,3 @@ void post_gauge(int value, char prefix){
   #endif
 
 }
-
