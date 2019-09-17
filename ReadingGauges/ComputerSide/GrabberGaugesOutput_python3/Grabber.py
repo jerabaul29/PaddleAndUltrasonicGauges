@@ -170,7 +170,6 @@ class grabb_serial_values(object):
     def text_output_dict_grabbed(self):
         """text output of the data grabbed"""
 
-        print(self.dict_grabbed)
         print("Prnted text output")
 
     def convert_grabbed_to_numpy(self):
