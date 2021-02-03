@@ -2,9 +2,9 @@
 
 Some code used for performing automatic experiences about wave propagation in grease ice. If you use some of this content, please cite our article using this code:
 
-*Experiments on wave propagation in grease ice: combined wave gauges and PIV measurements*, Jean Rabault, Graig Sutherland, Atle Jensen, Kai H Christensen, Aleksey Marchenko, ArXiv (2018).
+Rabault, Jean, et al. "Experiments on wave propagation in grease ice: combined wave gauges and particle image velocimetry measurements." Journal of Fluid Mechanics 864 (2019): 876-898.
 
-Link: https://arxiv.org/pdf/1809.01476.pdf
+Note that it is available as a preprint on ArXiv an ResearchGate: https://www.researchgate.net/publication/331083269_Experiments_on_wave_propagation_in_grease_ice_Combined_wave_gauges_and_particle_image_velocimetry_measurements .
 
 ## Content
 
